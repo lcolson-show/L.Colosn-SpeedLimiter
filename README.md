@@ -10,9 +10,7 @@ A simple FiveM script that allows players to set a speed limiter on their curren
 2. Place the folder in your server's `resources` directory.
 3. Add the following to your `server.cfg`:
 
-```
-ensure pl_speedlimiter
-```
+
 
 ---
 
